@@ -12,7 +12,7 @@
 
 **SECURITY · SYSTEMS · ENGINEERING · STRATEGY**
 
-[Website](https://knsankar.in) · [GitHub](https://github.com/knsankar)
+[Website](https://knsankar.in) · [Twitter](https://twitter.com/knsankar)
 
 </div>
 
@@ -108,6 +108,7 @@ Curiosity needs an outlet beyond technology.
 ### `$ connect`
 
 - **Website:** [knsankar.in](https://knsankar.in)
+- **Twitter:** [@knsankar](https://twitter.com/knsankar)
 - **GitHub:** [@knsankar](https://github.com/knsankar)
 - **LinkedIn:** [@navaneethasankar](https://www.linkedin.com/in/navaneethasankar/)
 
